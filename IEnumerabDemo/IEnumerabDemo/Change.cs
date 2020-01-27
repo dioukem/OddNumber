@@ -8,6 +8,7 @@ namespace IEnumerabDemo
 {
     class Change
     {
+        //add comment
         public int MyProperty { get; set; }
     }
 }
